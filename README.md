@@ -5,4 +5,6 @@ execute par chrome:  https://tp-ssh1.dep-informatique.u-psud.fr/~tingting.zhu/ht
 execute par vscode: modifier<launch.json>: remplace les deux ligne dans configuration suivant:
   "url": "https://tp-ssh1.dep-informatique.u-psud.fr/~tingting.zhu/html/index.html",
             "webRoot": "${workspaceFolder}/html/index.html"
-  
+ 
+ 
+ s'il y a des problem de load les niveaul, veuille redémarrer le jeu  (presser F5)
